@@ -125,14 +125,15 @@ export function Sidebar({
             <AvatarFallback>SW</AvatarFallback>
           </Avatar>
           {collapsed ? (
-            <span className="sr-only">Samuel Wakili</span>
+            <span className="sr-only">Uchenna Emmanuel
+          </span>
           ) : (
             <span className="min-w-0">
               <span className="block truncate text-[13px] font-medium text-foreground">
-                Samuel Wakili
+                Uchenna Emmanuel
               </span>
               <span className="block truncate text-[11px] text-muted-foreground">
-                samuelwaki@gmail.com
+                dovadallas661@gmail.com
               </span>
             </span>
           )}
