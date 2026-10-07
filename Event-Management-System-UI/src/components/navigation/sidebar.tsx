@@ -121,8 +121,8 @@ export function Sidebar({
           )}
         >
           <Avatar size="sm">
-            <AvatarImage src="https://i.pravatar.cc/80?img=12" alt="Samuel Wakili" />
-            <AvatarFallback>SW</AvatarFallback>
+            <AvatarImage src="https://media.licdn.com/dms/image/v2/D4E03AQHwF6kY434l_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732851169559?e=1733750400&v=beta&t=P1oFjH_sOyquhB8_j3t38F9wHrU6d95xw0p5RJQJk3g" alt="Uchenna Emmanuel" alt="Uchenna Emmanuel" />
+            <AvatarFallback>UC</AvatarFallback>
           </Avatar>
           {collapsed ? (
             <span className="sr-only">Uchenna Emmanuel
