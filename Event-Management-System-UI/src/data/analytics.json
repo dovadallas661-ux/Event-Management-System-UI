@@ -1,0 +1,46 @@
+{
+  "kpis": [
+    {
+      "id": "totalEvents",
+      "label": "Total Events",
+      "value": 100000,
+      "change": 5.0,
+      "format": "number"
+    },
+    {
+      "id": "activeSpeakers",
+      "label": "Active Speakers",
+      "value": 25,
+      "change": -5.0,
+      "format": "number"
+    },
+    {
+      "id": "totalRegistrations",
+      "label": "Total Registrations",
+      "value": 300,
+      "change": 5.0,
+      "format": "number"
+    },
+    {
+      "id": "totalRevenue",
+      "label": "Total Revenue",
+      "value": 500000,
+      "change": 5.0,
+      "format": "currency"
+    }
+  ],
+  "registrationsByMonth": [
+    { "month": "Jan", "registrations": 650, "revenue": 98000, "checkIns": 610 },
+    { "month": "Feb", "registrations": 980, "revenue": 142000, "checkIns": 920 },
+    { "month": "Mar", "registrations": 780, "revenue": 118000, "checkIns": 740 },
+    { "month": "Apr", "registrations": 420, "revenue": 64000, "checkIns": 390 },
+    { "month": "May", "registrations": 1000, "revenue": 155000, "checkIns": 940 },
+    { "month": "Jun", "registrations": 580, "revenue": 87000, "checkIns": 540 },
+    { "month": "Jul", "registrations": 880, "revenue": 131000, "checkIns": 820 },
+    { "month": "Aug", "registrations": 340, "revenue": 51000, "checkIns": 300 },
+    { "month": "Sep", "registrations": 860, "revenue": 129000, "checkIns": 810 },
+    { "month": "Oct", "registrations": 680, "revenue": 102000, "checkIns": 640 },
+    { "month": "Nov", "registrations": 970, "revenue": 148000, "checkIns": 910 },
+    { "month": "Dec", "registrations": 610, "revenue": 91000, "checkIns": 570 }
+  ]
+}

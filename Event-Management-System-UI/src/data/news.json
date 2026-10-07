@@ -1,0 +1,23 @@
+[
+  {
+    "id": "news-1",
+    "title": "Latest News & Updates",
+    "excerpt": "Get ready for an unforgettable experience at the TechForward Summit 2024, happening on Saturday, January 20th, 2024, at the Eko Convention Centre, Lagos, Nigeria. This event brings together tech enthusiasts, professionals, and innovators for a day of insightful talks, networking opportunities, and hands-on workshops.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1400&q=80",
+    "eventId": "evt-011"
+  },
+  {
+    "id": "news-2",
+    "title": "Latest News & Updates",
+    "excerpt": "Registration is now open for the Cloud Innovation Summit in Boston. Join operators and engineers for architecture deep-dives, platform workshops, and a closing networking reception.",
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1400&q=80",
+    "eventId": "evt-001"
+  },
+  {
+    "id": "news-3",
+    "title": "Latest News & Updates",
+    "excerpt": "The Smart Cities Forum continues this week with civic data sessions, mobility demos, and a public-private roundtable on connected infrastructure.",
+    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1400&q=80",
+    "eventId": "evt-009"
+  }
+]
